@@ -1,0 +1,45 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Config and environment files
+*.env
+*.ini
+*.cfg
+*.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
